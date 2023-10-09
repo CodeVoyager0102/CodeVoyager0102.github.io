@@ -4,7 +4,20 @@
   
     
     <entry>
-      <title>面试相关问题</title>
+      <title>第4篇博客：如何更改typero主题</title>
+      <link href="/2023/10/09/%E6%9B%B4%E6%94%B9typero%E4%B8%BB%E9%A2%98/"/>
+      <url>/2023/10/09/%E6%9B%B4%E6%94%B9typero%E4%B8%BB%E9%A2%98/</url>
+      
+        <content type="html"><![CDATA[<h4 id="去官网下载自己喜欢的主题https-theme-typoraio-cn-我下载的是Drake主题，点击Download"><a href="#去官网下载自己喜欢的主题https-theme-typoraio-cn-我下载的是Drake主题，点击Download" class="headerlink" title="去官网下载自己喜欢的主题https://theme.typoraio.cn/,我下载的是Drake主题，点击Download"></a>去官网下载自己喜欢的主题<a href="https://theme.typoraio.cn/">https://theme.typoraio.cn/</a>,我下载的是Drake主题，点击Download</h4><p><img src="/../pic/image-20231009142412133.png" alt="image-20231009142412133"></p><h4 id="进入github页面，点击Code，然后点击Download-Zip下载压缩包"><a href="#进入github页面，点击Code，然后点击Download-Zip下载压缩包" class="headerlink" title="进入github页面，点击Code，然后点击Download Zip下载压缩包"></a>进入github页面，点击Code，然后点击Download Zip下载压缩包</h4><p><img src="/../pic/image-20231009142559891.png" alt="image-20231009142559891"></p><h4 id="打开下载好了的安装包，找到要下载的主题相关配置文件，将其复制到typero主题里"><a href="#打开下载好了的安装包，找到要下载的主题相关配置文件，将其复制到typero主题里" class="headerlink" title="打开下载好了的安装包，找到要下载的主题相关配置文件，将其复制到typero主题里"></a>打开下载好了的安装包，找到要下载的主题相关配置文件，将其复制到typero主题里</h4><h4 id="主题在typero页面：文件—-偏好设置—-外观—-打开主题文件夹"><a href="#主题在typero页面：文件—-偏好设置—-外观—-打开主题文件夹" class="headerlink" title="主题在typero页面：文件—&gt;偏好设置—&gt;外观—&gt;打开主题文件夹"></a>主题在typero页面：文件—&gt;偏好设置—&gt;外观—&gt;打开主题文件夹</h4><h5 id="（注意：下载的对应主题的名字，如果有相关主题文件夹，要连同文件夹一起复制到typero主题里面，例如我下载的是drake主题，我需要将drake-css与drake文件夹一起复制到theme主题里）"><a href="#（注意：下载的对应主题的名字，如果有相关主题文件夹，要连同文件夹一起复制到typero主题里面，例如我下载的是drake主题，我需要将drake-css与drake文件夹一起复制到theme主题里）" class="headerlink" title="（注意：下载的对应主题的名字，如果有相关主题文件夹，要连同文件夹一起复制到typero主题里面，例如我下载的是drake主题，我需要将drake.css与drake文件夹一起复制到theme主题里）"></a><strong>（注意：下载的对应主题的名字，如果有相关主题文件夹，要连同文件夹一起复制到typero主题里面，例如我下载的是drake主题，我需要将drake.css与drake文件夹一起复制到theme主题里）</strong></h5><p><img src="/../pic/image-20231009143150847.png" alt="image-20231009143150847"></p><p><img src="/../pic/image-20231009143324467.png" alt="image-20231009143324467"></p><p>​<img src="/../pic/image-20231009143457510.png" alt="image-20231009143457510"></p><p><img src="/../pic/image-20231009143735712.png" alt="image-20231009143735712"></p><h4 id="复制到typero主题文件夹之后，重启typero，在主题更换即可"><a href="#复制到typero主题文件夹之后，重启typero，在主题更换即可" class="headerlink" title="复制到typero主题文件夹之后，重启typero，在主题更换即可"></a>复制到typero主题文件夹之后，重启typero，在主题更换即可</h4><p><img src="/../pic/image-20231009144009262.png" alt="image-20231009144009262"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第3篇博客：面试相关问题（持续更新）</title>
       <link href="/2023/10/04/Node.js%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A0%E6%B3%95%E8%B0%83%E7%94%A8DOM%E5%92%8CBOM%E7%AD%89%E6%B5%8F%E8%A7%88%E5%99%A8%E5%86%85%E7%BD%AEAPI%EF%BC%9F/"/>
       <url>/2023/10/04/Node.js%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A0%E6%B3%95%E8%B0%83%E7%94%A8DOM%E5%92%8CBOM%E7%AD%89%E6%B5%8F%E8%A7%88%E5%99%A8%E5%86%85%E7%BD%AEAPI%EF%BC%9F/</url>
       
@@ -17,7 +30,7 @@
     
     
     <entry>
-      <title>微信小程序</title>
+      <title>第2篇博客：微信小程序（持续更新）</title>
       <link href="/2023/09/24/wx-app/"/>
       <url>/2023/09/24/wx-app/</url>
       
@@ -30,11 +43,11 @@
     
     
     <entry>
-      <title>我的第一篇博客</title>
+      <title>第1篇博客：与我相关</title>
       <link href="/2023/09/15/hello-world/"/>
       <url>/2023/09/15/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>哈喽~大家好呀，我是淡然置之，欢迎大家来访问我的博客。在今后的生活里，我会在这里分享一些与计算机专业相关的资源，有兴趣的小伙伴可以一起互相学习哦！</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br><span class="line"></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><p><img src="C:/Users/29306/AppData/Roaming/Typora/typora-user-images/image-20230920223709571.png" alt="image-20230920223709571"></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="hello-大家好呀，我是淡然置之，欢迎大家来访我的博客。在今后的生活里，我会在这里分享一些与计算机相关的资源，有兴趣的小伙伴可以一起互相学习啦啦啦"><a href="#hello-大家好呀，我是淡然置之，欢迎大家来访我的博客。在今后的生活里，我会在这里分享一些与计算机相关的资源，有兴趣的小伙伴可以一起互相学习啦啦啦" class="headerlink" title="hello~大家好呀，我是淡然置之，欢迎大家来访我的博客。在今后的生活里，我会在这里分享一些与计算机相关的资源，有兴趣的小伙伴可以一起互相学习啦啦啦"></a>hello~大家好呀，我是淡然置之，欢迎大家来访我的博客。在今后的生活里，我会在这里分享一些与计算机相关的资源，有兴趣的小伙伴可以一起互相学习啦啦啦</h3><h4 id="专业：软件工程"><a href="#专业：软件工程" class="headerlink" title="专业：软件工程"></a>专业：软件工程</h4><h4 id="年龄：22"><a href="#年龄：22" class="headerlink" title="年龄：22"></a>年龄：22</h4><h4 id="性别：女"><a href="#性别：女" class="headerlink" title="性别：女"></a>性别：女</h4><h4 id="爱好：敲代码"><a href="#爱好：敲代码" class="headerlink" title="爱好：敲代码"></a>爱好：敲代码</h4><h4 id="现阶段：在校大学生，勇敢的人先享受世界"><a href="#现阶段：在校大学生，勇敢的人先享受世界" class="headerlink" title="现阶段：在校大学生，勇敢的人先享受世界"></a>现阶段：在校大学生，勇敢的人先享受世界</h4><h4 id="个签：忍住简单的语言，守好自己的防线，在围观路人里面，我只做其中一员"><a href="#个签：忍住简单的语言，守好自己的防线，在围观路人里面，我只做其中一员" class="headerlink" title="个签：忍住简单的语言，守好自己的防线，在围观路人里面，我只做其中一员"></a>个签：忍住简单的语言，守好自己的防线，在围观路人里面，我只做其中一员</h4>]]></content>
       
       
       
